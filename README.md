@@ -1,2 +1,0 @@
-# mobilephonehealthmonitoring
-PRIVACY POLICY

@@ -1,0 +1,63 @@
+# PRIVACY POLICY
+PRIVACY POLICY
+PRIVACY POLICY
+Last updated: July 1, 2026
+
+This privacy policy describes how Phone Health Monitor ("we", "our", or "the app") handles your information when you use our mobile application.
+
+1. INFORMATION COLLECTION AND USE
+
+Phone Health Monitor is designed with your privacy as a top priority. We operate on a strict zero-data-collection principle.
+
+The app accesses the following device features locally on your device ONLY:
+- Battery status (level, charging state, temperature)
+- Device sensors (accelerometer, gyroscope)
+- Camera (for hardware self-tests)
+- GPS location (for sensor diagnostics)
+- CPU usage and temperature data
+
+2. DATA STORAGE
+
+All data collected by this application is stored EXCLUSIVELY on your device. We do not transmit, upload, or share any data with external servers, cloud services, or third parties.
+
+Data is stored using:
+- Local database (SQLite / IndexedDB) on your device
+- Local storage for app preferences (language selection)
+
+3. DATA YOU CAN CONTROL
+
+You have full control over your data:
+- All stored data can be deleted at any time via the "Delete All Data" button in the app
+- Uninstalling the app will remove all locally stored data
+- Camera and GPS are only used when you explicitly initiate a hardware test
+
+4. THIRD-PARTY SERVICES
+
+This app does not integrate any third-party analytics, advertising, or tracking services. No third party has access to your data.
+
+5. DATA SECURITY
+
+Since all data remains on your device and is never transmitted, there is no risk of data interception during transmission. We recommend keeping your device's operating system updated for optimal security.
+
+6. CHILDREN'S PRIVACY
+
+Our app does not collect any personal information from users of any age, including children under 13.
+
+7. CHANGES TO THIS PRIVACY POLICY
+
+We may update this privacy policy from time to time. Users will be notified of any changes through the app update description on Google Play.
+
+8. CONTACT US
+
+If you have any questions about this privacy policy, please contact us at:
+Email:ivanng611@gmail.com
+
+9. OPEN SOURCE
+
+This application is built on open-source technologies including:
+- Ionic Framework
+- Capacitor
+- Angular
+- Chart.js
+
+All data processing happens locally on your device. No internet connection is required for core functionality.
